@@ -21,3 +21,10 @@ Please make sure to update tests as appropriate.
 
 ## License
 [WTFPL](https://choosealicense.com/licenses/wtfpl/)
+
+## Fun Stats
+[Last Commit](https://img.shields.io/github/last-commit/jonesjsc/homework1)
+
+[Current Undertsatnding level](https://img.shields.io/badge/Understanding%20Level-Barely-yellow)
+
+
