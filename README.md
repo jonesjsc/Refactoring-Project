@@ -25,6 +25,6 @@ Please make sure to update tests as appropriate.
 ## Fun Stats
 [Last Commit](https://img.shields.io/github/last-commit/jonesjsc/homework1)
 
-[Current Undertsatnding level](https://img.shields.io/badge/Understanding%20Level-Barely-yellow)
+[Current Understanding level](https://img.shields.io/badge/Understanding%20Level-Barely-yellow)
 
 
