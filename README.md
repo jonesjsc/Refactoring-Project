@@ -22,6 +22,10 @@ Please make sure to update tests as appropriate.
 ## License
 [WTFPL](https://choosealicense.com/licenses/wtfpl/)
 
+## References
+One goal of this project was to understand what Semantic Elements are and how to use them.  [This site](https://www.w3schools.com/html/html5_semantic_elements.asp) was referenced.
+
+
 ## Fun Stats
 [Last Commit](https://img.shields.io/github/last-commit/jonesjsc/homework1)
 
