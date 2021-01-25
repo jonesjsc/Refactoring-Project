@@ -1,6 +1,8 @@
-# Foobar
+# Horiseon
 
-Foobar is a Python library for dealing with word pluralization.
+Horiseon is the first homework project for the Coding Bootcamp.  There are 3 primary objectives
+* learn how to refactor / beautify code thought the use and understanding of HTML / CSS Semantics .
+* introduction to the basic workflow of source code control.
 
 ## Installation
 
@@ -11,7 +13,6 @@ git https://github.com/jonesjsc/homework1.git
 ```
 
 ## Usage
-
 This project refactors Horiseon's for accessability for people with disabilities.
 
 ## Contributing
