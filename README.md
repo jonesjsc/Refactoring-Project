@@ -22,5 +22,5 @@ One goal of this project was to understand what Semantic Elements are and how to
 [WTFPL](https://choosealicense.com/licenses/wtfpl/)
 
 ## Fun Stats
-* [Last Commit](https://img.shields.io/github/last-commit/jonesjsc/homework1)
-* [Current Understanding level](https://img.shields.io/badge/Understanding%20Level-Barely-yellow)
+* ![Last Commit](https://img.shields.io/github/last-commit/jonesjsc/homework1)
+* ![Current Understanding level](https://img.shields.io/badge/Understanding%20Level-Gettin%20There-yellow)
