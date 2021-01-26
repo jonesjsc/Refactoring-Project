@@ -7,9 +7,7 @@ There are three primary objectives to our first homework assignment
 * Introduction to publishing a webpage on pages.gihub.io.
 
 ## Screenshot
-![screenshot](assets/images/screenshot25.jpg)
-
-[full resolution screenshot](assets/images/screenshot.jpg)
+[<img src=assets/images/screenshot25.jpg>](assets/images/screenshot.jpg)
 
 ## Links
 * This repo is located [here](https://github.com/jonesjsc/homework1)
